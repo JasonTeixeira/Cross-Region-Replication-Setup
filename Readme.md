@@ -1,0 +1,1 @@
+A comprehensive project to implement a CI/CD pipeline using AWS services like CloudFormation, CodePipeline, and CodeDeploy. This setup automates the deployment and management of a scalable cloud infrastructure, ensuring security, reliability, and efficiency.
