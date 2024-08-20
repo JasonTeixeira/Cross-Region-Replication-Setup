@@ -1,1 +1,2 @@
-A project implementing a secure, scalable three-tier web application architecture using AWS services. The architecture includes a load-balanced web server, an internal API server, and an Aurora MySQL database with a read replica. The setup emphasizes security with IP whitelisting, encryption, and robust access controls, while maintaining cost efficiency and scalability within a single Availability Zone.
+# Scalable 3-tier Web App Architecture 
+![](https://github.com/JasonTeixeira/AWS-Scalable-Web-Infrustructure/blob/main/Project-10%20AWS%20Architecture%20Diagram.drawio.png)
